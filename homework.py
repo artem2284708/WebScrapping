@@ -22,4 +22,3 @@ for i in div_element[:num_songs_to_display]:
     text = i.get_text()
     print(k, ":   ", text)
     k += 1
-
